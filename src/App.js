@@ -7,7 +7,7 @@ import ImpactQuotes from './components/ImpactQuotes';
 import MissionStatement from './components/MissionStatement';
 import ImpactStatistics from './components/ImpactStatistics';
 import Donations from './components/Donations';
-import Activities from './components/Activities'; // Added import for Activities
+import Activities from './components/Activities'; //Added import for Activities
 import GreatInitiatives from './components/GreatInitiatives';
 import UserReviews from './components/UserReviews';
 import Contact from './components/Contact';
